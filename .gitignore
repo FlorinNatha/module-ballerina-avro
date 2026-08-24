@@ -34,7 +34,6 @@ hs_err_pid*
 .code
 .project
 .settings
-.vscode
 
 # Build Files
 .gradle
@@ -46,3 +45,5 @@ bin
 velocity.log*
 *Ballerina.lock
 examples/**/Dependencies.toml
+config.bat
+node_modules
